@@ -1,0 +1,6 @@
+
+# Create a new Next.js app
+npx create-next-app@latest --typescript --use-npm
+
+# Run the development server
+npm run dev
